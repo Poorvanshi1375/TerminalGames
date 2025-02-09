@@ -1,2 +1,2 @@
 # TerminalGames
-i ahve developed a terminal based some games in c++ language.
+i have developed a terminal based some games in c++ language.
